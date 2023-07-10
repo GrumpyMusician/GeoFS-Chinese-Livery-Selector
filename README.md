@@ -11,3 +11,5 @@ Aircraft not checkmarked are not part of this plugin yet, but are in development
  - [ ] China Eastern 767-300ER
  - [ ] China Airlines 787-9
  - [ ] China Airlines A350-900
+
+Please credit when using assets from this project!! 
