@@ -13,3 +13,12 @@ Aircraft not checkmarked are not part of this plugin yet, but are in development
  - [ ] China Airlines A350-900
 
 Please credit when using assets from this project!! 
+
+## How to use ⚙️? 
+This Livery Project can be used with or without installation.
+
+### Without installation:
+Copy and paste main.js into the browser console
+
+### With installation: 
+[Coming Soon (lmao)]
