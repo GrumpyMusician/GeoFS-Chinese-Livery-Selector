@@ -1,5 +1,14 @@
 {
     "aircrafts": {
+        "3575":{
+            "index": [0],
+            "parts": [0],
+            "liveries": [{
+                "name": "China Eastern Airlines".
+                "texture": ["https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Liveries/main/liveries/ces787-9.jpg?token=GHSAT0AAAAAACCVR6QLDSVWYREMDSCSV4SMZFNM6EQ"]
+            }]
+            
+        }
 
     }
 }
