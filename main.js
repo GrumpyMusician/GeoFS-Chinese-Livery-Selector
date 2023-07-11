@@ -13,12 +13,12 @@ async function init(){
     listdiv.setAttribute("data-onshow", "{geofs.initializePreferencesPanel()}");
     listdiv.setAttribute("data-onhide", "{geofs.savePreferencesPanel()}");
     listdiv.setAttribute("class", "geofs-list geofs-toggle-panel geofs-livery-list geofs-visible")
-    listdiv.innerHTML = '<h3><img src="https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/476df50f652cad420b5cd09684d65b7cf0e447c9/liveryselector-logo.svg" width="95%" title="Livery selector" style="display: block; margin-left: auto; margin-right: auto;"/></h3><div class="mdl-textfield mdl-js-textfield geofs-stopMousePropagation geofs-stopKeyupPropagation" style="width: 100%; padding-right: 86px;"><input class="mdl-textfield__input address-input" type="text" id="address" placeholder="Search liveries" onkeydown="search(this.value)" id="searchlivery"><label class="mdl-textfield__label" for="searchlivery">Search liveries</label></div><h6>Favorite liveries</h6><ul id="favorites" class="geofs-list geofs-visible"></ul><h6>Available liveries</h6><ul id="liverylist" class=" geofs-list geofs-visible"></ul>'
+    listdiv.innerHTML = '<h3><img src="" width="95%" title="Livery selector" style="display: block; margin-left: auto; margin-right: auto;"/></h3><div class="mdl-textfield mdl-js-textfield geofs-stopMousePropagation geofs-stopKeyupPropagation" style="width: 100%; padding-right: 86px;"><input class="mdl-textfield__input address-input" type="text" id="address" placeholder="Search liveries" onkeydown="search(this.value)" id="searchlivery"><label class="mdl-textfield__label" for="searchlivery">Search liveries</label></div><h6>Favorite liveries</h6><ul id="favorites" class="geofs-list geofs-visible"></ul><h6>Available liveries</h6><ul id="liverylist" class=" geofs-list geofs-visible"></ul>'
     document.getElementsByClassName("geofs-ui-left")[0].appendChild(listdiv);
 
     // Button for panel
     let buttonDiv = document.createElement("div");
-    buttonDiv.innerHTML = '<button class="mdl-button mdl-js-button geofs-f-standard-ui geofs-mediumScreenOnly" data-toggle-panel=".geofs-livery-list" data-tooltip-classname="mdl-tooltip--top" id="liverybutton" tabindex="0" data-upgraded=",MaterialButton" onclick="listLiveries()" title="Change livery">LIVERY<img src="https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/0230cb5c8438a70b770ff56fed81dfec6f4e9014/liveryselector-logo-small.svg" height="30px"/></button>'
+    buttonDiv.innerHTML = '<button class="mdl-button mdl-js-button geofs-f-standard-ui geofs-mediumScreenOnly" data-toggle-panel=".geofs-livery-list" data-tooltip-classname="mdl-tooltip--top" id="liverybutton" tabindex="0" data-upgraded=",MaterialButton" onclick="listLiveries()" title="Change livery">LIVERY<img src="" height="30px"/></button>'
     document.body.appendChild(buttonDiv);
     let element = document.getElementById("liverybutton");
     if (geofs.version >= 3.6){
@@ -34,7 +34,7 @@ async function init(){
     //Load liveries
 
 
-//    await fetch("https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/livery.json").then(res => res.json()).then(data => liveryobj = data)
+    await fetch("https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Liveries/4a1dd671140e874c3efd5c31e3f1dd287bccb3e6/livery.json").then(res => res.json()).then(data => liveryobj = data)
 
     //remove original buttons
 
