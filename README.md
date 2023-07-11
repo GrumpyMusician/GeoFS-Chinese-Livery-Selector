@@ -18,7 +18,8 @@ Please credit when using assets from this project!!
 This Livery Project can be used with or without installation.
 
 ### Without installation:
-Copy and paste main.js into the browser console
+Paste this first: ``localStorage.favorites = "";``
+Copy and paste main.js into the browser console (You may need to open development tools!)
 
 ### With installation: 
 [Coming Soon (lmao)]
