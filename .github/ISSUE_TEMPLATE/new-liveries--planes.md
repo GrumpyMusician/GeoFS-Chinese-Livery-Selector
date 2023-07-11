@@ -7,14 +7,14 @@ assignees: Aternosus
 
 ---
 
-## Livery Request
+### Livery Request
 e.g.,  China Southern 
 
 Special liveries need to be mentioned, otherwise the standard will be applied. Only real airlines will be considered.
 
-##  Plane Used/Requested
+###  Plane Used/Requested
 e.g., Boeing 737
 
-## Other Notes?
+### Other Notes?
 
 Put them down here!
