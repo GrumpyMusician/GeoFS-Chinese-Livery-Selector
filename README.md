@@ -3,7 +3,7 @@ A livery handler for GeoFS from Chinese Airlines
 
 ## Credits 👍:
 *kolos26* for Javascript & JSON Code.
-All liveries drawn by ParrotMan.
+**All liveries are drawn by ParrotMan.**
 
 ## Aircraft ✈️:
 
@@ -15,14 +15,14 @@ All liveries drawn by ParrotMan.
 | Waitlisted|  Boeing 757-200  |     Yes; GX Development| Air China                       |  Standard  |
 | Waitlisted| Boeing 767-300ER |     Yes; GX Development| China Eastern Airlines          |  Standard  |
 
-Please credit when using assets from this project!! 
+Please credit when using assets from this project!
 
 ## How to use ⚙️? 
 This Livery Project can be used with or without installation.
 
 ### Without installation:
 Paste this first: ``localStorage.favorites = "";``
-Copy and paste main.js into the browser console (You may need to open development tools!)
+Copy and paste main.js into the browser console (You may need to open developer tools!)
 
 ### With installation: 
 [Coming Soon (lmao)]
