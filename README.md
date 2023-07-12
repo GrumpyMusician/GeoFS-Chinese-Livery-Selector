@@ -22,7 +22,7 @@ This Livery Project can be used with or without installation.
 
 ### Without installation:
 
-- Paste this first: ``localStorage.favorites = "";`` IF THIS IS THE FIRST TIME YOU HAVE PASTED IT!
+- Paste this first: ``localStorage.favorites = "";`` IF THIS IS THE FIRST TIME YOU'RE USING IT!
 - Copy and paste main.js into the browser console (You may need to open developer tools!)
 
 ### With installation: 
