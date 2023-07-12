@@ -8,6 +8,16 @@
                     "texture": ["https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Liveries/main/liveries/ces787-9.jpg?token=GHSAT0AAAAAACCVR6QLDSVWYREMDSCSV4SMZFNM6EQ"]
                 }
             ]
-         }
+         },
+        "238": {
+            "index": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            "parts": [0, 9, 23, 24, 25, 26, 27, 28, 29, 30, 37],
+            "liveries": [
+                {
+                    "name": "Air China",
+                    "texture": ["https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/cca757-200.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/cca757-200.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/cca757-200.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/cca757-200.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/cca757-200.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/cca757-200.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/cca757-200.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/cca757-200.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/cca757-200.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/cca757-200.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/cca757-200.jpg"]
+                }
+            ]
+        }
     }
 }
