@@ -1,5 +1,5 @@
 # GeoFS-Chinese-Liveries
-A livery handler for GeoFS from Chinese Airlines
+A livery handler for GeoFS from Chinese Airlines. There will be a new livery every one to two days.
 
 ## Credits 👍:
 *kolos26* for Javascript & JSON Code.
