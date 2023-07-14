@@ -28,3 +28,6 @@ This Livery Project can be used with or without installation.
 
 ### With installation: 
 - Coming soon
+
+## Other Projects:
+Check out Sunrise 6's [Livery Selector](https://github.com/Sunrise-6/Kittyo-Group-Livery-Selector/tree/main) that I helped contribute 
