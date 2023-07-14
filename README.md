@@ -14,7 +14,7 @@ A livery handler for GeoFS from Chinese Airlines. There will be a new livery eve
 | Waitlisted           | Airbus A319-100  |     Yes; GT-VrA        | China Southern Airlines         |  Standard  |
 | Completed            |  Boeing 757-200  |     Yes; GX Development| Air China                       |  Standard  |
 | Completed            | Boeing 767-300ER |     Yes; GX Development| China Eastern Airlines          |  Old       |
-| Waitlisted           | Airbus A350-900  |     Yes; GX Development| China Airlines                  |  Standard  |
+| Under Development    | Airbus A350-900  |     Yes; GX Development| China Airlines                  |  Standard  |
 
 Please credit when using assets from this project!
 
