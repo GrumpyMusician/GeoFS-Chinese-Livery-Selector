@@ -7,14 +7,17 @@ A livery handler for GeoFS from Chinese Airlines. There will be a new livery eve
 
 ## Aircraft ✈️:
 
-|       Status         |      Planes      |          CCA?          |             Airline             |   Livery   |
-| -------------------- | ---------------- | ---------------------- | ------------------------------- | ---------- |
-| Completed            |  Boeing 787-9    |     Yes; Spice-9       | China Eastern (Yunnan Airlines) |  Standard  |
-| Waitlisted           |  Boeing 767-300ER|     Yes; Spice-9       | China Airlines                  |  Standard  |
-| Waitlisted           | Airbus A319-100  |     Yes; GT-VrA        | China Southern Airlines         |  Standard  |
-| Completed            |  Boeing 757-200  |     Yes; GX Development| Air China                       |  Standard  |
-| Completed            | Boeing 767-300ER |     Yes; GX Development| China Eastern Airlines          |  Old       |
-| Under Development    | Airbus A350-900  |     Yes; GX Development| China Airlines                  |  Standard  |
+|       Status         |      Planes      |       CC Aircraft?      |             Airline             |   Livery   |                        Other Notes                         |
+| -------------------- | ---------------- | ----------------------- | ------------------------------- | ---------- | ---------------------------------------------------------- |
+| Completed            |  Boeing 787-9    |     Yes; Spice-9        | China Eastern (Yunnan Airlines) |  Standard  |                                                            |
+| Waitlisted           |  Boeing 767-300ER|     Yes; Spice-9        | China Airlines                  |  Standard  |                                                            |
+| Waitlisted           | Airbus A319-100  |     Yes; GT-VrA         | China Southern Airlines         |  Standard  |                                                            |
+| Completed            |  Boeing 757-200  |     Yes; GX Development | Air China                       |  Standard  |                                                            |
+| Completed            | Boeing 767-300ER |     Yes; GX Development | China Eastern Airlines          |  Old       | Considering Retexturing                                    |
+| Testing (Incomplete) | Airbus A350-900  |     Yes; GX Development | China Airlines                  |  Standard  |                                                            |
+| Under Development    | Boeing 737-700   |     No                  | China Eastern                   |  Old       |                                                            |
+| Waitlisted           | Boeing 737-700   |     No                  | China Eastern                   |  Standard  |                                                            |
+| Waitlisted           | Boeing 757-20    |     Yes; GX Development | Air China Cargo                 |  Standard  | 757 Cargo Varient not on GeoFS; use Passenger instead      |
 
 Please credit when using assets from this project!
 
