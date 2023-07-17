@@ -23,6 +23,14 @@
                 "name": "China Eastern Airlines",
                 "texture": ["https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/ces767-300ER.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/ces767-300ER.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/ces767-300ER.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/ces767-300ER.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/ces767-300ER.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/ces767-300ER.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/ces767-300ER.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/ces767-300ER.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/ces767-300ER.jpg"]
             }]
+        },
+        "239": {
+            "index": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+            "parts": [0, 18, 20, 21, 22, 23, 24, 25, 34],
+            "liveries": [{
+                    "name": "Cathay Pacific",
+                    "texture": ["https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/calA350-900.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/calA350-900.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/calA350-900.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/calA350-900.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/calA350-900.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/calA350-900.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/calA350-900.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/calA350-900.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/calA350-900.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/calA350-900.jpg", "https://raw.githubusercontent.com/Aternosus/GeoFS-Chinese-Livery-Selector/main/liveries/calA350-900.jpg"]
+            }]
         }
     }
 }
